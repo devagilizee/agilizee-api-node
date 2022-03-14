@@ -1,0 +1,9 @@
+Comitar alteração
+git add .
+git commit -m "descricao do commit"
+git push origin main
+
+pushar no servidor linux
+
+
+pm2 start index.js --name=deploy_teste
